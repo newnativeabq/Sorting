@@ -1,25 +1,6 @@
 from bubblesort import bubble_sort
 from selectionsort import selection_sort
 
-# TO-DO: Complete the selection_sort() function below 
-def selection_sort( arr ):
-    # loop through n-1 elements
-    for i in range(0, len(arr) - 1):
-        cur_index = i
-        smallest_index = cur_index
-        # TO-DO: find next smallest element
-        # (hint, can do in 3 loc) 
-             
-
-
-
-        # TO-DO: swap
-
-
-
-
-    return arr
-
 
 
 # STRETCH: implement the Count Sort function below
